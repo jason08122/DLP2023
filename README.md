@@ -9,15 +9,15 @@ This lab include understand and implement a **simple neural network** with **for
 
 ## Data
 
-![image](https://hackmd.io/_uploads/SJmb57vh6.png)
+![image](https://github.com/jason08122/DLP2023/blob/main/pictures/SJmb57vh6.png)
 
 ## Architecture
 
-![image](https://hackmd.io/_uploads/H178q7wha.png)
+![image](https://github.com/jason08122/DLP2023/blob/main/pictures/H178q7wha.png)
 
 ## Prediction
 
-![image](https://hackmd.io/_uploads/HJn_5QDna.png)
+![image](https://github.com/jason08122/DLP2023/blob/main/pictures/HJn_5QDna.png)
 
 <br>
 
@@ -33,11 +33,11 @@ This lab include implement simple EEG classification models which are **EEGNet**
 
 ## Data
 
-![image](https://hackmd.io/_uploads/BJywsQD2a.png)
+![image](https://github.com/jason08122/DLP2023/blob/main/pictures/BJywsQD2a.png)
 
 ## EFFNet
 
-![image](https://hackmd.io/_uploads/SJF_iXv2T.png)
+![image](https://github.com/jason08122/DLP2023/blob/main/pictures/SJF_iXv2T.png)
 
 <br>
 
@@ -59,7 +59,7 @@ This lab is about analysis **diabetic retinopathy**.
 * **7,026** for testing
 * The images’ resolutions are different and are required to be preprocessed into the same resolution, which is 512 * 512.
 
-![image](https://hackmd.io/_uploads/ry6Op7vna.png)
+![image](https://github.com/jason08122/DLP2023/blob/main/pictures/ry6Op7vna.png)
 
 
 
